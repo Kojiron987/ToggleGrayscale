@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Grayscale Toggle",
+  "version": "1.0",
+  "description": "Toggle grayscale mode on/off.",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
