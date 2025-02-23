@@ -1,3 +1,4 @@
-# Grayscale toggle firefox extention
+# Grayscale toggle firefox extension
 
-You can use this extenstion to check display contrast.
+You can use this extenstion to check screen contrast.
+
